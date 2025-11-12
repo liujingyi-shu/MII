@@ -5,3 +5,5 @@ The MII dataset was recorded using a small unmanned surface vehicle (USV) with a
   <img src="./usv.png" alt="usv" width="50%"  align="center">
   <figcaption align="center">Fig. 1 USV platform for data collection (left) and the coastal water of Qingdao, China, where the MII dataset was captured (right). </figcaption>
 </p>
+
+The dataset download link will be made available upon acceptance of the paper.
